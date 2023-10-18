@@ -1,0 +1,15 @@
+../Core/Src/main.c:81:5:main	8	static
+../Core/Src/main.c:152:6:SystemClock_Config	88	static
+../Core/Src/main.c:193:13:MX_TIM1_Init	104	static
+../Core/Src/main.c:273:13:MX_TIM2_Init	48	static
+../Core/Src/main.c:326:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:374:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:438:13:ChangeLaunchSpeed	16	static
+../Core/Src/main.c:567:13:ChangeSpin	16	static
+../Core/Src/main.c:577:13:ChangeVerticalAngle	24	static
+../Core/Src/main.c:624:13:ChangeHorizontalAngle	24	static
+../Core/Src/main.c:674:13:ChangeDispenseFrequency	16	static
+../Core/Src/main.c:691:13:BeginLaunching	8	static
+../Core/Src/main.c:702:13:EndLaunching	8	static
+../Core/Src/main.c:712:13:ShutDown	8	static
+../Core/Src/main.c:725:6:Error_Handler	8	static,ignoring_inline_asm

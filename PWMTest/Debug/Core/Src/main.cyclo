@@ -1,0 +1,15 @@
+../Core/Src/main.c:81:5:main	1
+../Core/Src/main.c:152:6:SystemClock_Config	3
+../Core/Src/main.c:193:13:MX_TIM1_Init	7
+../Core/Src/main.c:273:13:MX_TIM2_Init	5
+../Core/Src/main.c:326:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:374:13:MX_GPIO_Init	1
+../Core/Src/main.c:438:13:ChangeLaunchSpeed	11
+../Core/Src/main.c:567:13:ChangeSpin	1
+../Core/Src/main.c:577:13:ChangeVerticalAngle	3
+../Core/Src/main.c:624:13:ChangeHorizontalAngle	3
+../Core/Src/main.c:674:13:ChangeDispenseFrequency	7
+../Core/Src/main.c:691:13:BeginLaunching	1
+../Core/Src/main.c:702:13:EndLaunching	1
+../Core/Src/main.c:712:13:ShutDown	1
+../Core/Src/main.c:725:6:Error_Handler	1
